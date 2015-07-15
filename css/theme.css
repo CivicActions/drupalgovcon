@@ -44,7 +44,11 @@ h3 {
 .footer p {
   margin: 0;
   padding-bottom: 30px;
-
+}
+.footer img {
+  height: auto;
+  max-width: 200px;
+  width: 100%
 }
 .fa-1 .fa {
   font-size: 25px;
