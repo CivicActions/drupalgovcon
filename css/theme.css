@@ -24,13 +24,13 @@ h3 {
 }
 .hero {
   background: #0077C0 url("../img/drupalgovcon-hero.png") 50% bottom; 
-  color: #fff; 
   margin-bottom: 20px;
-  padding-bottom: 40px;
-  padding-top: 40px;
 }
 .hero h1 {
   font-size: 200%;
+  margin: 0;
+  padding-bottom: 60px;
+  padding-top: 60px;
 }
 .twitter-share-button {
   margin-top: 20px;
