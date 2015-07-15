@@ -1,0 +1,48 @@
+body {
+  background: #0077C0;
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+}
+a, a:hover, a:visited {
+  color: #fff;
+}
+h1, h2, h3, h4, h5 {
+  color: #fff;
+  font-weight: 700;
+}
+h3 {
+  color: #fff;
+  font-weight: 400;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  margin: 0;
+}
+.hero {
+  background: #0077C0 url("../img/drupalgovcon-hero.png") 50% bottom; 
+  color: #fff; 
+  margin-bottom: 20px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+.hero h1 {
+  font-size: 200%;
+}
+.twitter-share-button {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.footer {
+  background: #00598E;
+  padding-top: 30px;
+}
+.footer p {
+  margin: 0;
+  padding-bottom: 30px;
+
+}
+.fa-1 .fa {
+  font-size: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
